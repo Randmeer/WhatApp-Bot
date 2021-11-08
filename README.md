@@ -1,4 +1,4 @@
-# WhatApp-Bot
+# WhatsApp-Bot
 Programmable bot for sending (and fetching) messages via WhatsApp.
 
 After logging into WhatsApp-Web wia the 2 successive qr-codes at the start your Bot's session,
